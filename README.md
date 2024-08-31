@@ -19,5 +19,12 @@ Configure Vitest - create `vitest.config.mts` file
 Setup script in `package.json`  
 Add dummy test `src/index.vitest.ts`  
 
+# review scripts
+Jest test run `npm run jest`  
+Jest test run with watch `npm run jest:watch`  
+Vitest test run `npm run vitest`  
+Vitest test run with watch `npm run vitest:watch`  
+
+
 
 

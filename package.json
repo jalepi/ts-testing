@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "jest": "jest",
-    "vitest": "vitest"
+    "jest:watch": "jest --watchAll=true",
+    "vitest": "vitest run",
+    "vitest:watch": "vitest"
   },
   "author": "",
   "license": "ISC",
