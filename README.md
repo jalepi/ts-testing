@@ -13,4 +13,11 @@ Install dependencies `npm install -D jest @jest/globals jest-environment-jsdom t
 Configure Jest `npm init jest@latest`  
 Add dummy test `src/index.jest.ts`  
 
+# setup Vitest
+Install dependencies `npm install -D vitest happy-dom`  
+Configure Vitest - create `vitest.config.mts` file  
+Setup script in `package.json`  
+Add dummy test `src/index.vitest.ts`  
+
+
 
