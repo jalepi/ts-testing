@@ -1,0 +1,14 @@
+{
+  "name": "ts-testing",
+  "version": "1.0.0",
+  "description": "Examples of testing with Jest and Vitest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
