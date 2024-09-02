@@ -1,5 +1,5 @@
 import { describe, expect, test, jest, afterEach } from "@jest/globals";
-import { Person } from "./spyon-class-member";
+import { Person } from "./spyon-class-members";
 
 describe("spyon class members", () => {
   afterEach(() => {
